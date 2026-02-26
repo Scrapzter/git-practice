@@ -1,1 +1,3 @@
 Hello Git
+
+Michael Rice
